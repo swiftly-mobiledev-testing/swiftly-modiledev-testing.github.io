@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.swiftly.sprys",
+               "sha256_cert_fingerprints": ["5E:C3:43:87:F0:62:28:68:A1:C1:01:A5:E4:06:FF:87:B1:FB:BD:F9:99:9D:D0:48:44:2D:39:1D:D3:B8:FA:AA"] }
+}]
