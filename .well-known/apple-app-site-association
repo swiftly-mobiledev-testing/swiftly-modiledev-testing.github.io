@@ -1,0 +1,91 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ 9D544Q67Y6.com.swiftly.Sprys ],
+             "components": [
+               {
+                  "/": "/home",
+                  "comment": ""
+               },
+               {
+                  "/": "/home/brandlandingpage/*",
+                  "comment": ""
+               },
+               {
+                  "/": "/home/offer/detail/*",
+                  "comment": ""
+               },
+               {
+                  "/": "/home/offer/category/*",
+                  "comment": ""
+               },
+               {
+                  "/": "/home/flyer/*",
+                  "comment": ""
+               },
+               {
+                  "/": "/home/store/*",
+                  "comment": ""
+               },
+               {
+                  "/": "/home/flyer",
+                  "comment": ""
+               },
+               {
+                  "/": "/home/store",
+                  "comment": ""
+               },
+               {
+                  "/": "/home/cashback/detail/*",
+                  "comment": ""
+               },
+               {
+                  "/": "/home/product/detail/*",
+                  "comment": ""
+               },
+               {
+                  "/": "/home/product/category/*",
+                  "comment": ""
+               },
+               {
+                  "/": "/home/inbox",
+                  "comment": ""
+               },
+               {
+                  "/": "/loyalty",
+                  "comment": ""
+               },
+               {
+                  "/": "/loyalty/clipped",
+                  "comment": ""
+               },
+               {
+                  "/": "/loyalty/redeemed",
+                  "comment": ""
+               },
+               {
+                  "/": "/shoppinglist",
+                  "comment": ""
+               },
+               {
+                  "/": "/productscan",
+                  "comment": ""
+               },
+               {
+                  "/": "/search?q=*",
+                  "comment": ""
+               },
+               {
+                  "/": "/account",
+                  "comment": ""
+               },
+               {
+                  "/": "/account/profile",
+                  "comment": ""
+               }
+             ]
+           }
+       ]
+   }
+}
