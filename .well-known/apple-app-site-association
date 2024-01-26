@@ -5,6 +5,10 @@
              "appIDs": [ 9D544Q67Y6.com.swiftly.Sprys ],
              "components": [
                {
+                  "/": "/*",
+                  "comment": ""
+               },
+               {
                   "/": "/home",
                   "comment": ""
                },
